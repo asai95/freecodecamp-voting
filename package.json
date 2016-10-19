@@ -5,6 +5,7 @@
         "express": "4.x.x",
         "mongoose": "4.x.x",
         "body-parser": "1.x.x",
-        "cookie-parser": "1.x.x"
+        "cookie-parser": "1.x.x",
+        "ejs": "2.x.x"
     }
 }
